@@ -14,11 +14,4 @@ Before running the project, please ensure that you have placed the `2019-Nov.csv
 3. Ensure that the file name is exactly `2019-Nov.csv`.
 
 ## Running the Project
-Explain how to run your project here. Include steps on how to install dependencies, how to execute the code, etc.
-
-## Contributing
-Instructions for how others can contribute to your project.
-
-## License
-Specify the license under which your project is released.
-
+Run the docker-compose file in the [bdsp-services](https://github.com/dhbw-loerrach-wds22a/bdsp-services) repo.
